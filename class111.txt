@@ -1,0 +1,20 @@
+sample z test 
+if new sample mean lies within 1st standard deviation then not much impact of the intervention
+if new sample mean lies within 2nd standard deviation then significant impact of the intervention
+if new sample mean lies within 3rd or beyond 3rd standard deviation then high impact of intervention
+if the intervention is positive then the mean would lie to the right .
+if the intervention is negative then the mean would lie to the left 
+
+z = (mean - mean of sample1)/ standard deviation 
+
+z = (mean - mean of sample2)/ standard deviation
+
+z = (mean - mean of sample3)/ standard deviation
+
+if the z is > than 3 or > than 2 -> sample mean lies more than 3 standard deviation away from (mean that means high impact)
+if the z is < 1 or z < 2 -> (impact is not significant)
+
+this type of testing to identify the impact of interventions is used by governments, financial institutions to understand what works the best
+
+z is a mathematical score which tells us how many standard deviations away is the new mean from the sampling population distribution
+    
